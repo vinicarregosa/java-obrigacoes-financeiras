@@ -215,7 +215,7 @@ Como executar
 
 Clone o repositório:
 
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/vinicarregosa/java-obrigacoes-financeiras.
 
 Entre no diretório do projeto:
 
